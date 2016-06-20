@@ -1,4 +1,4 @@
-# Lesson Objectives
+# New MATLAB beginner's course
 
 ### Part 1: Command line - reading in data, basic analysis, data-viz
 
