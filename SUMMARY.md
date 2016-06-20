@@ -1,4 +1,4 @@
 # Summary
 
-* Lesson Objectives
+* [Lesson Objectives](lesson_objectives.md)
 
