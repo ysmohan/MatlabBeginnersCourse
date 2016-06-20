@@ -1,3 +1,3 @@
 # MatlabBeginnersCourse
-All the materials for the beginners course material.
+All the materials for the beginners course.
 
